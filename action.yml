@@ -1,5 +1,5 @@
 # action.yml
-name: 'Swagger Codegen CLI'
+name: 'Swagger Codegen Action'
 description: 'Run Swagger Codegen with Github Actions'
 branding:
     icon: code
