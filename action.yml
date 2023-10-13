@@ -6,7 +6,7 @@ branding:
     color: green
 runs:
   using: 'docker'
-  image: 'docker://swaggerapi/swagger-codegen-cli-v3@v3.0.46'
+  image: 'docker://swaggerapi/swagger-codegen-cli-v3:3.0.46'
   args:
   - ${{ inputs.action }}
   - '-i'
